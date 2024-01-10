@@ -1,0 +1,24 @@
+# Vite
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Build files
+*.log
+yarn-error.log
+yarn-debug.log
+
+# Dependency directories
+pnp/
+.pnp.js
+
+# Cache directories
+.cache/
+.CFIDE/
+.vscode-test/
